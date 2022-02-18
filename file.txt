@@ -1,2 +1,2 @@
 "We are in a folder" 
-"SURPRISE CHANGES"
+"THERE'S A CONFLICT"
